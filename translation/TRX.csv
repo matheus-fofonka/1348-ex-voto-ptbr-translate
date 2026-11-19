@@ -1,0 +1,45 @@
+﻿"id","namespace","key","original","traducao","status"
+"1","ST_TRC_Messages","Profile.SignInChanged","A profile change has occurred
+Validate to continue with the initial profile ({0})
+Cancel to return to the title screen","Houve uma troca de perfil
+Confirme para continuar com o perfil inicial ({0})
+Cancele para voltar à tela inicial","traduzido"
+"2","ST_TRC_Messages","Button.Cancel","Cancel","Cancelar","traduzido"
+"3","ST_TRC_Messages","Save.Corrupted","Corrupted save","Salvamento corrompido","traduzido"
+"4","ST_TRC_Messages","Controller.Disconnected.PS4","Please reconnect your DUALSHOCK®4 wireless controller to continue","Reconecte seu controle sem fio DUALSHOCK®4 para continuar","traduzido"
+"5","ST_TRC_Messages","Controller.Disconnected.Switch","Please reconnect your Nintendo Switch Pro Controller to continue","Reconecte seu Nintendo Switch Pro Controller para continuar","traduzido"
+"6","ST_TRC_Messages","Controller.Disconnected","Please reconnect your controller to continue","Reconecte seu controle para continuar","traduzido"
+"7","ST_TRC_Messages","Controller.Disconnected.PS5","Please reconnect your wireless controller to continue","Reconecte seu controle sem fio para continuar","traduzido"
+"8","ST_TRC_Messages","Save.NotSaved.PS5","There is not enough space on the console storage
+Progress cannot be saved","Não há espaço suficiente no armazenamento do console
+O progresso não pode ser salvo","traduzido"
+"9","ST_TRC_Messages","Save.NotSaved","There is not enough space on the system storage
+Progress cannot be saved","Não há espaço suficiente no armazenamento do sistema
+O progresso não pode ser salvo","traduzido"
+"10","ST_TRC_Messages","Save.NotSaved.PS4","There is not enough space on the system storage
+Progress cannot be saved","Não há espaço suficiente no armazenamento do sistema
+O progresso não pode ser salvo","traduzido"
+"11","ST_TRC_Messages","Button.Validate","Validate","Confirmar","traduzido"
+"12","ST_TRX_UI","Profile.ChangeProfile","Change profile","Trocar perfil","traduzido"
+"13","ST_TRX_UI","EngagementScreen.PressAnyKeyToContinue","Press any key to continue","Pressione qualquer tecla para continuar","traduzido"
+"14","ST_TRX_UI","EngagementScreen.PressKeyToContinue","Press {0} to continue","Pressione {0} para continuar","traduzido"
+"15","ST_TRX_UI","SaveProgressNotify.SaveIconPresentation","Progression is saved automatically
+When you see this icon, the title is saving content
+Do not turn off your console when you see this icon","O progresso é salvo automaticamente
+Quando você vir este ícone, o jogo está salvando
+Não desligue o console enquanto este ícone estiver visível","traduzido"
+"16","ST_TRX_UI","SaveProgressNotify.SaveIconPresentation.PS5","Progression is saved automatically
+When you see this icon, the title is saving content
+Do not turn off your console when you see this icon","O progresso é salvo automaticamente
+Quando você vir este ícone, o jogo está salvando
+Não desligue o console enquanto este ícone estiver visível","traduzido"
+"17","ST_TRX_UI","SaveProgressNotify.SaveIconPresentation.Switch","Progression is saved automatically
+When you see this icon, the title is saving content
+Do not turn off your console when you see this icon","O progresso é salvo automaticamente
+Quando você vir este ícone, o jogo está salvando
+Não desligue o console enquanto este ícone estiver visível","traduzido"
+"18","ST_TRX_UI","SaveProgressNotify.SaveIconPresentation.PS4","Progression is saved automatically
+When you see this icon, the title is saving content
+Do not turn off your system when you see this icon","O progresso é salvo automaticamente
+Quando você vir este ícone, o jogo está salvando
+Não desligue o sistema enquanto este ícone estiver visível","traduzido"
