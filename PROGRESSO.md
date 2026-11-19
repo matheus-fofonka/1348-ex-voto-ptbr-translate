@@ -5,8 +5,11 @@
 ## Estado atual
 - **Fase:** 4 — primeira tradução completa (Game 2126/2126, TRX 18/18; 130 linhas de dev mantidas em inglês, status `ignorar`).
   Primeiro commit feito (identidade git configurada só neste repositório).
+- **Publicação:** código no GitHub (main). Zip v0.9.0 gerado por `scripts\package.ps1` com instalador
+  (`dist\instalar.ps1` + `Instalar.bat`/`Desinstalar.bat`); textos prontos em `dist\RELEASE.md` e `dist\NEXUS.md`.
+  Upload da Release e do Nexus é feito pelo usuário.
 - **Próximo passo:** revisão do usuário jogando (marcar linhas como `revisado` ou corrigir `traducao` no CSV);
-  depois publicação (GitHub + Nexus) e instalador.
+  depois `build.ps1` + `package.ps1 -Versao X` para uma nova versão.
 - Pontos a revisar no contexto do jogo: "Bugigangas" (Trinkets), "Ícone de ritmo" (Tempo icon), tratamento "tu"
   nos diálogos, gênero de falas onde inimigos chamam Aeta de "garoto" (mantido como no original, ela usa armadura).
 

@@ -1,0 +1,32 @@
+1348 Ex Voto — Tradução em Português do Brasil (não oficial)
+Versão {VERSAO}
+==============================================================
+
+Mod feito por fãs. Não é afiliado à Sedleo nem à distribuidora do jogo.
+Código-fonte e planilhas da tradução:
+https://github.com/matheus-fofonka/1348-ex-voto-ptbr-translate
+
+INSTALAR (automático)
+1. Extraia o zip inteiro para uma pasta qualquer.
+2. Dê dois cliques em "Instalar.bat".
+   O instalador encontra o jogo na Steam. Se não encontrar, ele pede a pasta do jogo.
+3. Abra o jogo e escolha "Português" no menu de idiomas (Opções).
+
+INSTALAR (manual)
+Copie "zzz_PTBR_P.pak" para:
+  ...\steamapps\common\1348\P1348\Content\Paks\~mods\
+(crie a pasta "~mods" se ela não existir) e escolha "Português" no jogo.
+
+DESINSTALAR
+Dê dois cliques em "Desinstalar.bat", ou apague o arquivo "zzz_PTBR_P.pak" da pasta ~mods.
+
+OBSERVAÇÕES
+- Ao reabrir o jogo, o seletor de idioma mostra "English" mesmo com o texto em português.
+  Isso é do próprio jogo (acontece com outros idiomas também); a tradução continua ativa.
+- Depois de uma atualização do jogo, se algum texto aparecer em inglês, procure uma versão nova do mod.
+- Encontrou erro de tradução? Abra uma issue no GitHub ou comente na página do Nexus Mods.
+
+CRÉDITOS E LICENÇAS
+- Jogo e textos originais © Sedleo.
+- O mod inclui dados ICU 64.1 © Unicode, Inc. (licença em LICENCA-ICU.txt),
+  necessários para o jogo reconhecer o idioma português.

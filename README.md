@@ -3,11 +3,11 @@
 Mod de tradução feito por fãs para **1348 Ex Voto** (Sedleo). Adiciona o idioma **pt-BR** ao jogo.
 Não é afiliado ao estúdio nem à distribuidora.
 
-> Status: em andamento — veja [PROGRESSO.md](PROGRESSO.md).
+> Status: tradução completa (v0.9.0 beta, em revisão) — veja [PROGRESSO.md](PROGRESSO.md).
 
 ## Instalar (jogador)
-1. Baixe `zzz_PTBR_P.pak` em [Releases](../../releases) (ou no Nexus Mods).
-2. Copie para `...\steamapps\common\1348\P1348\Content\Paks\~mods\` (crie a pasta `~mods` se não existir).
+1. Baixe o zip em [Releases](../../releases) (ou no Nexus Mods), extraia e execute `Instalar.bat`.
+2. Ou copie `zzz_PTBR_P.pak` manualmente para `...\steamapps\common\1348\P1348\Content\Paks\~mods\` (crie a pasta `~mods` se não existir).
 3. Escolha *Português* no menu de idiomas do jogo, ou em
    `%LOCALAPPDATA%\P1348\Saved\Config\Windows\GameUserSettings.ini` defina:
    ```ini
@@ -27,7 +27,8 @@ Ferramentas em `tools\` (não versionadas):
 .\scripts\extract.ps1   # extrai os textos do jogo e atualiza translation\*.csv
 .\scripts\check.ps1     # valida marcadores e mostra o progresso
 .\scripts\build.ps1     # gera build\zzz_PTBR_P.pak
-.\scripts\install.ps1   # instala no jogo e ativa pt-BR (-Desinstalar para remover)
+.\scripts\install.ps1   # instala no jogo (-Desinstalar para remover)
+.\scripts\package.ps1 -Versao 0.9.0   # gera o zip de distribuição em build\dist\
 ```
 
 ## Contribuir com a tradução
